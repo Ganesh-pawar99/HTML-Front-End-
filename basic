@@ -1,0 +1,28 @@
+<html > ------- </html>   --> that is html tag
+<body> ----- </body>  -->  that i html body
+
+<html> -> html tag open 
+</html> -> html tag close
+<body> -> html body open
+</body> -> html body close
+<br> -> use for new line
+<hr> -> use for one strate line
+<input/> -- > that is self closing
+
+concepts of html:
+ - head tag
+ - body tag
+ - radio button
+ - check box
+ - date
+ -html Attributes
+ -links
+ -list
+ -Iframe
+ -div
+ -span
+ -select
+ - form
+ -devloper tools
+ -Input tag and type
+ 
